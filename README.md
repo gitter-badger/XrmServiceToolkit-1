@@ -1,6 +1,8 @@
 [![Gitter](https://badges.gitter.im/con-ssc/XrmServiceToolkit.svg)](https://gitter.im/con-ssc/XrmServiceToolkit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # **Project Description**
 
+[![Join the chat at https://gitter.im/XrmServiceToolkit/XrmServiceToolkit](https://badges.gitter.im/XrmServiceToolkit/XrmServiceToolkit.svg)](https://gitter.im/XrmServiceToolkit/XrmServiceToolkit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 XrmServiceToolkit is a JavaScript library which can be used for JavaScript Development under the platform for **Microsoft Dynamics CRM 2011/2013/2015 environments**. The library contains four major parts regarding functions.
 
 * Common: General Methods used for various purpose.
